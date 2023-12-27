@@ -1,0 +1,17 @@
+# dependencies
+
+/node_modules
+
+/coverage
+
+/dist
+/build
+
+.env
+.env.local
+
+.DS_Store
+package-lock.json
+
+#IDE
+.vscode
